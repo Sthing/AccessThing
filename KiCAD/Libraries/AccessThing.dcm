@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC244
+D Octal buffer/line driver; 3-state
+$ENDCMP
+#
+$CMP MAX3483
+D 3.3V-Powered, 250kbps, Slew-Rate-Limited, True RS-485/RS-422 Transceiver
+K RS-485,RS-422
+$ENDCMP
+#
+$CMP MAX3483E
+D 3.3V-Powered, ±15kV ESD-Protected, 250kbps, Slew-Rate-Limited, True RS-485/RS-422 Transceiver
+K RS-485,RS-422
+$ENDCMP
+#
+$CMP MAX3485
+D 3.3V-Powered, 10Mbps, True RS-485/RS-422 Transceiver
+K RS-485,RS-422
+$ENDCMP
+#
+$CMP MAX3485E
+D 3.3V-Powered, ±15kV ESD-Protected, 12Mbps, Slew-Rate-Limited, True RS-485/RS-422 Transceiver
+K RS-485,RS-422
+$ENDCMP
+#
+$CMP MAX3486
+D 3.3V-Powered, 2.5Mbps, partially Slew-Rate-Limited, True RS-485/RS-422 Transceiver
+K RS-485,RS-422
+$ENDCMP
+#
+$CMP MAX3486E
+D 3.3V-Powered, ±15kV ESD-Protected, 2.5Mbps, Slew-Rate-Limited, True RS-485/RS-422 Transceiver
+K RS-485,RS-422
+$ENDCMP
+#
+#End Doc Library
